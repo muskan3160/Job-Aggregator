@@ -1,7 +1,7 @@
 const puppy=require("puppeteer");
 const xlsx=require("xlsx");
 const id="sefoh20820@ddwfzp.com";
-const password="Muskan3160!";
+const password="";
 
 
 // To get the the jobs list in the excel sheet format to apply for current opening sorted by date and the excel sheet will get updated.
